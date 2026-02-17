@@ -1,0 +1,4 @@
+C:\Users\Alfa\Desktop\GitEgzerzisi\HesapMakinesi\obj\Debug\net10.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Desktop\GitEgzerzisi\HesapMakinesi\obj\Debug\net10.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\Alfa\Desktop\GitEgzerzisi\HesapMakinesi\obj\Debug\net10.0\HesapMakinesi.AssemblyInfo.cs
+C:\Users\Alfa\Desktop\GitEgzerzisi\HesapMakinesi\obj\Debug\net10.0\HesapMakinesi.csproj.CoreCompileInputs.cache
